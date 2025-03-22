@@ -15,4 +15,4 @@ In this repository, I will add files that I have worked on.
 
 | File/Folder      | Description |
 |------------------|-------------|
-| `PC_LT.py`        | this file makes [3pi+ robot](https://www.pololu.com/category/76/3pi-robots-and-accessories) which trace a line, count how many plants there are in a greenhouse, and then use that number of plants to take photos of each one using an RaspberryPi4|
+| `PC_LT.py`        | This file makes the [3pi+ robot](https://www.pololu.com/category/76/3pi-robots-and-accessories) trace a line, count how many plants there are in a greenhouse, and take photos of each one using an [RaspberryPi4](https://www.raspberrypi.com/) and a RaspberryPi4 Camera.|
